@@ -1,1 +1,1 @@
-
+Javascript練習用
